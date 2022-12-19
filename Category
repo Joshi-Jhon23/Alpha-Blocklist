@@ -1,0 +1,348 @@
+
+Browser based filters
+Browser based content filtering solution is the most lightweight solution to do the content filtering, 
+and is implemented via a third party browser extension.
+
+
+E-mail filters
+E-mail filters act on information contained in the mail body, in the mail headers such as sender and subject, 
+and e-mail attachments to classify, accept, or reject messages. Bayesian filters, a type of statistical filter, are commonly used. 
+Both client and server based filters are available.
+
+
+Client-side filters
+This type of filter is installed as software on each computer where filtering is required.[11][12] This filter can typically be managed, 
+disabled or uninstalled by anyone who has administrator-level privileges on the system. 
+A DNS-based client-side filter would be to set up a DNS Sinkhole, such as Pi-Hole.
+
+
+Content-limited (or filtered) ISPs
+Content-limited (or filtered) ISPs are Internet service providers that offer access to only a set portion of 
+Internet content on an opt-in or a mandatory basis. Anyone who subscribes to this type of service is subject to restrictions. 
+The type of filters can be used to implement government,[13] regulatory[14] or parental control over subscribers.
+
+
+Network-based filtering
+This type of filter is implemented at the transport layer as a transparent proxy, or at the application layer as a web proxy.
+[15] Filtering software may include data loss prevention functionality to filter outbound as well as inbound information. 
+All users are subject to the access policy defined by the institution. The filtering can be customized, 
+so a school district's high school library can have a different filtering profile than the district's junior high school library.
+
+
+DNS-based filtering
+This type of filtering is implemented at the DNS layer and attempts to prevent lookups for domains that do not 
+fit within a set of policies (either parental control or company rules). Multiple free public DNS services offer 
+filtering options as part of their services. DNS Sinkholes such as Pi-Hole can be also be used for this purpose, though client-side only.
+
+
+Search-engine filters
+Many search engines, such as Google and Bing offer users the option of turning on a safety filter. 
+When this safety filter is activated, it filters out the inappropriate links from all of the search results. 
+If users know the actual URL of a website that features explicit or adult content, they have the ability to access 
+that content without using a search engine. Some providers offer child-oriented versions of their engines that permit 
+only children friendly websites.[16]
+
+
+================================================================================================================================================
+
+https://www.webtitan.com/wp-content/uploads/2017/08/URL-Filtering-Categories.pdf
+https://1stdirectory.co.uk/_assets/files_comp/318c0a8c-edab-4988-ac28-5a5e96abd5e7.pdf
+https://cdn.ymaws.com/www.oshean.org/resource/resmgr/iboss/iBossCategories.pdf
+https://help.clouduss.com/product-web-security/web-categories-list
+
+
+================================================================================================================================================
+
+
+Adult content
+Alcohol, tobacco, drugs
+Violence
+Profanity, obscenity
+Weapons, explosives, pyrotechnics
+Job search
+Anonymizers
+Software, audio, video
+Torrents
+File sharing
+Audio, video
+Gambling, lotteries, sweepstakes
+Internet communication
+Web-based mail
+Social networks
+Chats, forums, IM
+Blogs
+Dating sites
+Electronic commerce
+Online stores
+Banks
+Payment systems
+Cryptocurrencies, mining
+Video games
+Religions, religious associations
+News media
+Banners
+Forbidden by regional laws
+
+
+
+
+================================================================================================================================================
+
+https://www.alinscribe.com/articles/344/list-of-website-categories-250-categories-exclusively-available-over-the-internet.html
+
+Full list of website categories
+
+Adult
+Adult Content
+Lingerie
+Nudity
+Pornography
+Sex
+Sex Education
+Swimsiut
+Arts
+Architecture
+Awards
+Humor
+Performing Arts
+Photography
+Visual Arts Design
+Automobile
+Autos
+Aviation
+Boating
+Cars
+Motorcycles
+Trains
+Vehicles
+Blogs
+Books
+Business
+Advertising
+Associations
+Construction
+Customer Service
+E-Commerce
+Logistics
+Maintenance
+Marketing
+Metals
+Mining
+Publishing
+Printing
+Real Estate
+Services
+Transportation
+Wholesale Trade
+Career
+Business
+Jobs & Employment
+Celebrities
+Computer
+Graphics and Multimedia
+Networking
+Programming
+Security
+Software
+Education
+Business Training
+Colleges
+Human Resources
+Universities
+Electronics
+Entertainment
+Animation
+Comics
+Fashion
+Modeling
+News
+Movies
+Music and Audio
+Finance
+Accounting
+Banking
+Credit, Loans and Mortgages
+Financial Management
+Grants and Scholarships
+Insurance
+Investing
+Fitness
+Beauty
+Bodyart
+Cosmetics
+Hair
+Nutrition
+Skin Care
+Weight Loss
+Food & Beverage
+Gambling
+Bingo
+Casinos
+Lottery
+Poker
+Games
+Board
+Card
+Miniatures
+Puzzles and Brainteasers
+Roleplaying
+Video Games
+Government
+Law
+Military and Defense
+Hardware
+Health
+Addictions
+Alternative and Natural Medicine
+Conditions and Diseases
+Dentistry
+Medicine
+Pharmacy
+Hobbies
+Antiques
+Camps
+Climbing
+Collecting
+Crafts
+Modelling
+Nudism
+Outdoors
+Scouting
+Theme Parks
+Tobacco
+Weapons
+Home & Family
+Home Improvement
+Home Security
+Interior Decor
+Kids
+Parenting
+Industry
+Aerospace
+Agriculture
+Biotechnology
+Chemicals
+Defence
+Energy
+Forestry
+Nonwovens
+Pharmaceuticals
+Textiles
+Literature
+Information Technology
+Ad Network
+Auctions
+Chats and Forums
+Domain Names and Register
+Email
+File Sharing
+Mobile Developers
+Online Marketing
+Search Engine
+Social Network
+Web Design
+Web Hosting
+News and Media
+Automobile
+Corporate
+Magazines and E Zines
+Newspapers
+Press Release
+Sports
+Technology
+Weather
+People and Society
+Crimes
+Dating
+Death
+Disabled
+Genealogy
+History
+Holidays
+Philanthropy
+Philosophy
+Politics
+Relationships
+Religion
+Spirituality
+Pets and Animals
+Animals
+Birds
+Fish and Aquaria
+Pets
+Reference
+Archives
+Ask an Expert
+Dictionaries
+Directories
+Encyclopedias
+Libraries
+Museums
+Maps
+Science
+Agriculture
+Astronomy
+Biology
+Chemistry
+Earth Sciences
+Environment
+Mathematics
+Physics
+Social Sciences
+Shopping
+Antiques
+Collectibles
+Auctions
+Classifieds
+Clothing
+Consumer Electronics
+Coupons
+Ethnic
+Regional
+Flowers
+Furniture
+General Merchandise
+Gifts
+Home & Family
+Jewelry
+Kids
+Music
+Office Products
+Publications
+Sports
+Weddings
+Sports
+Baseball
+Basketball
+Boxing
+Biking
+Cycling
+Equestrian
+Hunting
+Fantasy
+Fishing
+Football
+Golf
+Rugby
+Running
+Soccer
+Surfing
+Tennis
+Volleyball
+Water Sports
+Winter Sports
+Telecommunications
+Travel
+Accommodation
+Airlines
+Airports
+Highways
+Hotels
+Roads
+Tourism
+
+================================================================================================================================================
+
+
+
+
